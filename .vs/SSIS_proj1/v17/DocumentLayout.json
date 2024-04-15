@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdel\\source\\repos\\SSIS_proj1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E48745-753A-4987-85B7-A703506EDE6C}|SSIS_proj1.dtproj|C:\\Users\\abdel\\source\\repos\\SSIS_proj1\\product.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{67E48745-753A-4987-85B7-A703506EDE6C}|SSIS_proj1.dtproj|solutionrelative:product.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "product.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\SSIS_proj1\\product.dtsx",
+              "RelativeDocumentMoniker": "product.dtsx",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\SSIS_proj1\\product.dtsx [Design]",
+              "RelativeToolTip": "product.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-15T18:18:39.22Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

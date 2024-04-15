@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-6DF0MH8.VENTE_DATAWAREHOUSE"
+  DTS:DTSID="{21C9686A-514A-4BD0-9CA9-439C7EB53D0C}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-6DF0MH8;Initial Catalog=VENTE_DATAWAREHOUSE;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-SSIS_proj1-{21C9686A-514A-4BD0-9CA9-439C7EB53D0C}DESKTOP-6DF0MH8.VENTE_DATAWAREHOUSE;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
