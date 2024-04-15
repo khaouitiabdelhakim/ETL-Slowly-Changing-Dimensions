@@ -1,0 +1,1 @@
+Dive deep into Slowly Changing Dimensions (SCD) ETL in action with this comprehensive tutorial! In this video, we'll explore how to effectively manage changing data using SQL Server Management Studio (SSMS) and SQL Server Integration Services (SSIS).
